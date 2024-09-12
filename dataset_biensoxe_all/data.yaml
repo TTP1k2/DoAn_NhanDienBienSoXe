@@ -1,0 +1,6 @@
+train: D:\HocTap\TieuLuanChuyenNganh_2\Project\dataset_biensoxe_all\train\images
+val: D:\HocTap\TieuLuanChuyenNganh_2\Project\dataset_biensoxe_all\valid\images
+# test: D:\HocTap\TieuLuanChuyenNganh_2\Project\dataset_biensoxe_all\test\images
+
+nc: 2
+names: ['bien_so', 'bien_so_oto']
